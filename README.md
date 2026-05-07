@@ -40,10 +40,23 @@
 
 ###
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<h2 align="center">📊 GitHub Статистика</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enot222SJG&show_icons=true&hide_title=true&count_private=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enot222SJG&layout=compact&theme=dark" height="150" alt="Top Languages" />
+</div>
+
+###
+
+<h3 align="center">🔥 Моя активность</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enot222SJG&theme=dark" alt="GitHub Streak" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Enot222SJG&style=flat-square&color=blue" alt="Profile Views" />
+</div>
